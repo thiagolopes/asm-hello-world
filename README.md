@@ -1,4 +1,4 @@
-# My initial attempt to code some ASM examples.
+# Initial attempt with ASM.
 ## References
 - Syscall Table: https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
 - NASM asssembler: https://www.nasm.us/
